@@ -31,4 +31,4 @@ The goal is to generate insights that can help improve business decisions for a 
 - Turning data into business insights
 
 ## 🔗 Connect with Me
-- LinkedIn: [add your link]
+- LinkedIn: [https://www.linkedin.com/in/irene-kibengo-44964356/]
