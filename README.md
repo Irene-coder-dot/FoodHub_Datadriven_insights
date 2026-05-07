@@ -1,4 +1,4 @@
-# 🍔 FoodHub Data Analysis
+# FoodHub Data Analysis
 
 ## 📌 Project Overview
 This project explores customer ordering behavior, pricing trends, and restaurant performance using FoodHub data.
@@ -14,7 +14,7 @@ The goal is to generate insights that can help improve business decisions for a 
 ## 🛠️ Tools Used
 - Python
 - Pandas
-- Matplotlib / Seaborn
+- Seaborn
 
 ## 🔍 Key Insights
 - Most customers are price-sensitive, with orders below $20
